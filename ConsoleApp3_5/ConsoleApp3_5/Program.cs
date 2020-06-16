@@ -6,8 +6,19 @@ namespace ConsoleApp3_5
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Lab 3 5");
+            string blackListWord = "viagra";
+            bool isSpam = false;
+            string message = Console.ReadLine();
+            if (message.Contains(blackListWord))
+            {
+                isSpam = true;
+                Console.WriteLine("The message is spam");
+            }
+            else
+            {
+                isSpam = false;
+                Console.WriteLine("The message is not spam.");
+            }
         }
     }
 }
