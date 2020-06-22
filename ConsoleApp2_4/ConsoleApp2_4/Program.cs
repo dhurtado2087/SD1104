@@ -60,6 +60,17 @@ namespace ConsoleApp2_4
             //15.Use Console.WriteLine to print the text “Breakpoint Here”.   Insert a breakpoint to pause execution at this line. Run the program, and inspect the values of all of your variables. Hover your mouse over the variable to see it’s value appear.
             Console.WriteLine("Breakoint Here");
 
+            //16. Create a variable called textToNumber as a string with the value “80473”
+            string textToNumber = "80473";
+
+            //17. Create a variable call results as an integer and assign it the value of 99 * textToNumber. Use int.Parse() to complete the operation. Print the results.
+            int results = 99 * int.Parse(textToNumber);
+            Console.WriteLine(results);
+
+            //18. Create a DateTime variable called rightNow and set it’s value to Datetime.Now. Print the results.
+            DateTime rightNow = DateTime.Now;
+            Console.WriteLine(rightNow);
+            
         }
     }
 }
