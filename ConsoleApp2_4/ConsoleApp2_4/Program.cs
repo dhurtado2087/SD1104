@@ -45,19 +45,20 @@ namespace ConsoleApp2_4
             double numbers;
 
             //11. On a new line, assign numbers the value of mySecondNumber divided by myFirstNumber.
-            int mySecondNumber = 20;
+            mySecondNumber = 20;
 
             //12. Print the value of numbers to the console.
-
+            //Console.WriteLine(numbers);
+            Console.WriteLine(mySecondNumber);
 
             //13. On a new line, assign numbers the value of mySecondNumber divided by myFirstNumber, but this time, cast myFirstNumber as a double.
-
+            numbers = (mySecondNumber / (double)myFirstNumber);
 
             //14. Print the value of numbers to the console.
-
+            Console.WriteLine(numbers);
 
             //15.Use Console.WriteLine to print the text “Breakpoint Here”.   Insert a breakpoint to pause execution at this line. Run the program, and inspect the values of all of your variables. Hover your mouse over the variable to see it’s value appear.
-
+            Console.WriteLine("Breakoint Here");
 
         }
     }
