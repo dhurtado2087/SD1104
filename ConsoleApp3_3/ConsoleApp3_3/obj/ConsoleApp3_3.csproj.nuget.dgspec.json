@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dhurt\\source\\repos\\dhurtado2087\\SD1104\\ConsoleApp2_5\\ConsoleApp2_5\\ConsoleApp2_5.csproj": {}
+    "C:\\Users\\dhurt\\source\\repos\\dhurtado2087\\SD1104\\ConsoleApp3_3\\ConsoleApp3_3\\ConsoleApp3_3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dhurt\\source\\repos\\dhurtado2087\\SD1104\\ConsoleApp2_5\\ConsoleApp2_5\\ConsoleApp2_5.csproj": {
+    "C:\\Users\\dhurt\\source\\repos\\dhurtado2087\\SD1104\\ConsoleApp3_3\\ConsoleApp3_3\\ConsoleApp3_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dhurt\\source\\repos\\dhurtado2087\\SD1104\\ConsoleApp2_5\\ConsoleApp2_5\\ConsoleApp2_5.csproj",
-        "projectName": "ConsoleApp2_5",
-        "projectPath": "C:\\Users\\dhurt\\source\\repos\\dhurtado2087\\SD1104\\ConsoleApp2_5\\ConsoleApp2_5\\ConsoleApp2_5.csproj",
+        "projectUniqueName": "C:\\Users\\dhurt\\source\\repos\\dhurtado2087\\SD1104\\ConsoleApp3_3\\ConsoleApp3_3\\ConsoleApp3_3.csproj",
+        "projectName": "ConsoleApp3_3",
+        "projectPath": "C:\\Users\\dhurt\\source\\repos\\dhurtado2087\\SD1104\\ConsoleApp3_3\\ConsoleApp3_3\\ConsoleApp3_3.csproj",
         "packagesPath": "C:\\Users\\dhurt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dhurt\\source\\repos\\dhurtado2087\\SD1104\\ConsoleApp2_5\\ConsoleApp2_5\\obj\\",
+        "outputPath": "C:\\Users\\dhurt\\source\\repos\\dhurtado2087\\SD1104\\ConsoleApp3_3\\ConsoleApp3_3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dhurt\\AppData\\Roaming\\NuGet\\NuGet.Config",

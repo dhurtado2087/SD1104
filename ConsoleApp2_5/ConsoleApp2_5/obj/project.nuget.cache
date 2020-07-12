@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f9G492KC6C0Ib01EespyCiQ+YmRA9c8NbfcdG0QmHXU0vCIpnJqbIMQLB5RD+6FqlU7ODqV/j2Ln1gyd/drP/g==",
+  "dgSpecHash": "2ZqSWHVlzyLnuXjfkkETmdz8XO6KsA0N+U65nO8qPVjmIGs6h2TgVBVjbtjEaTQ7H/qSkvYfxOrzzGrg3YVRiw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dhurt\\Source\\Repos\\dhurtado2087\\SD1104\\ConsoleApp2_5\\ConsoleApp2_5\\ConsoleApp2_5.csproj",
+  "projectFilePath": "C:\\Users\\dhurt\\source\\repos\\dhurtado2087\\SD1104\\ConsoleApp2_5\\ConsoleApp2_5\\ConsoleApp2_5.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dhurt\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
