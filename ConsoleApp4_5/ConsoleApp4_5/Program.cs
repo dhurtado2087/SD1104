@@ -23,14 +23,24 @@ namespace ConsoleApp4_5
             }
 
             scores.Sort();
-            Console.Write("List in descending order");
+            Console.Write("List in ascending order");
             foreach (var item in scores)
             {
                 Console.WriteLine(item);
             }
 
             scores.Reverse();
-            Console.WriteLine("List in ascending order");
+            Console.WriteLine("List in descending order");
+            foreach (var item in scores)
+            {
+                Console.WriteLine(item);
+            }
+
+            scores.Add(2400);
+
+            scores.Remove(4400);
+
+            Console.WriteLine("Altered list");
             foreach (var item in scores)
             {
                 Console.WriteLine(item);
