@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tySGqo1MQi5UiHg4MOSe2nCiNx8Sfbsz+qVHCtsVBzM5ureFNpW1sn40zspOSm6JPM10+McF4ZwUN7LqcMVk5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dhurt\\source\\repos\\dhurtado2087\\SD1104\\ConsoleApp4_6\\ConsoleApp4_6\\ConsoleApp4_6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dhurt\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

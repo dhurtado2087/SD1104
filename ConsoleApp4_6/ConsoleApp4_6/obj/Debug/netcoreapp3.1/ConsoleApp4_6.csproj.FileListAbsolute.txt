@@ -1,0 +1,13 @@
+C:\Users\dhurt\source\repos\dhurtado2087\SD1104\ConsoleApp4_6\ConsoleApp4_6\bin\Debug\netcoreapp3.1\ConsoleApp4_6.exe
+C:\Users\dhurt\source\repos\dhurtado2087\SD1104\ConsoleApp4_6\ConsoleApp4_6\bin\Debug\netcoreapp3.1\ConsoleApp4_6.deps.json
+C:\Users\dhurt\source\repos\dhurtado2087\SD1104\ConsoleApp4_6\ConsoleApp4_6\bin\Debug\netcoreapp3.1\ConsoleApp4_6.runtimeconfig.json
+C:\Users\dhurt\source\repos\dhurtado2087\SD1104\ConsoleApp4_6\ConsoleApp4_6\bin\Debug\netcoreapp3.1\ConsoleApp4_6.runtimeconfig.dev.json
+C:\Users\dhurt\source\repos\dhurtado2087\SD1104\ConsoleApp4_6\ConsoleApp4_6\bin\Debug\netcoreapp3.1\ConsoleApp4_6.dll
+C:\Users\dhurt\source\repos\dhurtado2087\SD1104\ConsoleApp4_6\ConsoleApp4_6\bin\Debug\netcoreapp3.1\ConsoleApp4_6.pdb
+C:\Users\dhurt\source\repos\dhurtado2087\SD1104\ConsoleApp4_6\ConsoleApp4_6\obj\Debug\netcoreapp3.1\ConsoleApp4_6.csprojAssemblyReference.cache
+C:\Users\dhurt\source\repos\dhurtado2087\SD1104\ConsoleApp4_6\ConsoleApp4_6\obj\Debug\netcoreapp3.1\ConsoleApp4_6.AssemblyInfoInputs.cache
+C:\Users\dhurt\source\repos\dhurtado2087\SD1104\ConsoleApp4_6\ConsoleApp4_6\obj\Debug\netcoreapp3.1\ConsoleApp4_6.AssemblyInfo.cs
+C:\Users\dhurt\source\repos\dhurtado2087\SD1104\ConsoleApp4_6\ConsoleApp4_6\obj\Debug\netcoreapp3.1\ConsoleApp4_6.csproj.CoreCompileInputs.cache
+C:\Users\dhurt\source\repos\dhurtado2087\SD1104\ConsoleApp4_6\ConsoleApp4_6\obj\Debug\netcoreapp3.1\ConsoleApp4_6.dll
+C:\Users\dhurt\source\repos\dhurtado2087\SD1104\ConsoleApp4_6\ConsoleApp4_6\obj\Debug\netcoreapp3.1\ConsoleApp4_6.pdb
+C:\Users\dhurt\source\repos\dhurtado2087\SD1104\ConsoleApp4_6\ConsoleApp4_6\obj\Debug\netcoreapp3.1\ConsoleApp4_6.genruntimeconfig.cache
